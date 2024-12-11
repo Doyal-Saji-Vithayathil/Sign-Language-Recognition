@@ -1,4 +1,4 @@
-# sign-language-detector-python
+# Sign-Language-Recognition-Python
 
 Sign language detector with Python, OpenCV and Mediapipe !
 
